@@ -25,3 +25,4 @@ module.exports =  function makeExchange(currency) {
         }
     }    
     return result;
+}
